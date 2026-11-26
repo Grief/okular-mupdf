@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Grief"
+            }
+        ],
+        "Copyright": "© 2026 Grief",
+        "Description": "A fast PDF renderer based on MuPDF",
+        "License": "AGPL-3.0-or-later",
+        "MimeTypes": [
+            "application/x-pdf",
+            "application/pdf"
+        ],
+        "Name": "MuPDF Backend",
+        "Version": "0.1.0",
+        "Website": "https://github.com/Grief/okular-mupdf"
+    },
+    "X-KDE-Priority": 10,
+    "X-KDE-okularAPIVersion": 1
+}
